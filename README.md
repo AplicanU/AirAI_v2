@@ -1,6 +1,10 @@
 
 # 🌦️ Air AI
-Air AI is a chatbot which can help provide answers on how you can extract water from air and use it for agriculture.
+Air AI is a chatbot that can help provide answers on how you can extract water from the air and use it for agriculture.
+
+## Demo
+
+[Visit Website](https://air-ai-chat.streamlit.app/)
 
 
 
@@ -43,9 +47,4 @@ Start the server
 
 ## 🛠 Skills
 Python, Artificial Intelligence
-
-
-## Demo
-
-(Visit Website)[https://air-ai-chat.streamlit.app/]
 
